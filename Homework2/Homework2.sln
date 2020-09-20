@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPA", "GPA\GPA.csproj", "{E05AF49F-26E1-4139-B5A8-D69313C76AE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{85C4FF27-3FA0-4EDE-A9BE-4C4F4208302E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriviaQuiz", "FizzBuzz\TriviaQuiz.csproj", "{85C4FF27-3FA0-4EDE-A9BE-4C4F4208302E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
